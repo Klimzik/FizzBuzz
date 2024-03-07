@@ -12,7 +12,7 @@ namespace ConsoleApp1
             display();
         }
 
-        public void display() // wefwfwefewnfjewfoewmlfmew
+        public void display()
         {
             for (int i = 1; i <= maxNumber; i++) 
             {
