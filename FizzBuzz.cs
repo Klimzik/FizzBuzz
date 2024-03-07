@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
@@ -16,7 +12,7 @@ namespace ConsoleApp1
             display();
         }
 
-        public void display() 
+        public void display() // wefwfwefewnfjewfoewmlfmew
         {
             for (int i = 1; i <= maxNumber; i++) 
             {
